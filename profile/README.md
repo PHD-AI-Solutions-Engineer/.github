@@ -12,29 +12,29 @@ We design, build and run the internal software that helps sales, construction, l
 
 ---
 
-## 🎯 What we do
+## What we do
 
 We turn day-to-day business problems into production tools: document intelligence, conversational assistants, computer vision, recommendation and analytics. Every system is built around verified company data, with people kept in the loop for every decision that matters.
 
-## 🧩 Solution portfolio
+## Solution portfolio
 
 | Area | Solution | What it does |
 |---|---|---|
-| 🏙️ **Sales** | **Sales Assistant** | AI chatbot that gives sales agents instant answers from brochures, master plans and finishing specs, with an interactive masterplan view and Microsoft Entra ID sign-in. |
+| **Sales** | **Sales Assistant** | AI chatbot that gives sales agents instant answers from brochures, master plans and finishing specs, with an interactive masterplan view and Microsoft Entra ID sign-in. |
 | | **Performance Tracker** | Desktop app that produces brand-compliant performance reports for the company, directors, managers and agents, exported as PDF, Excel, email or WhatsApp. |
 | | **Unit Recommender** | Machine-learning recommender that matches customers with suitable units, based on historical sales data. |
 | | **Smart Screening System** | Applicant screening for Palm Hills communities: LLM-assisted classification, deterministic scoring and a reviewer dashboard. |
-| 🏗️ **Construction & Engineering** | **QA/QC Inspection Tracker** | Document control and inspection tracking from engineering submittals to handover, covering MIRs, snags and NCRs. |
+| **Construction & Engineering** | **QA/QC Inspection Tracker** | Document control and inspection tracking from engineering submittals to handover, covering MIRs, snags and NCRs. |
 | | **Masterplan Layout Generator** | YOLOv8 segmentation that extracts building footprints from masterplans, with an interactive editor and Excel export. |
 | | **BOQ Rate Database Builder** | Reads Bill of Quantities contracts and builds a master rate database. |
-| ⚖️ **Legal & Contracts** | **ClauseVision** | FIDIC and Musataha contract intelligence: OCR, edition detection and clause-by-clause analysis of Particular Conditions. |
-| 🏡 **Community & Residents** | **Go Palm** | Resident platform: a mobile and desktop app for residents, a web console for the community office, and a shared API. |
+| **Legal & Contracts** | **ClauseVision** | FIDIC and Musataha contract intelligence: OCR, edition detection and clause-by-clause analysis of Particular Conditions. |
+| **Community & Residents** | **Go Palm** | Resident platform: a mobile and desktop app for residents, a web console for the community office, and a shared API. |
 | | **Resident AI Assistant** | Multilingual (English, Arabic, Franco-Arabic) assistant that answers from verified community rules, penalties, facilities and contacts. |
-| 🗄️ **Data & Operations** | **WhatsApp Archive Viewer** | Offline, searchable business archive of WhatsApp history, backed by PostgreSQL. |
+| **Data & Operations** | **WhatsApp Archive Viewer** | Offline, searchable business archive of WhatsApp history, backed by PostgreSQL. |
 
-> 🔒 Our project repositories are private because they contain proprietary business logic and company data.
+> Our project repositories are private because they contain proprietary business logic and company data.
 
-## 🛠️ Tech stack
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -48,7 +48,7 @@ We turn day-to-day business problems into production tools: document intelligenc
 
 **AI/ML:** LLMs (Gemini, Claude, Mistral) · RAG with pgvector · OCR (PaddleOCR) · YOLOv8 instance segmentation · recommender systems
 
-## 🧭 How we build
+## How we build
 
 - **Verified data first.** Models phrase the answers; company records supply the facts.
 - **People in the loop.** AI assists reviewers and decision-makers; it doesn't replace them.
